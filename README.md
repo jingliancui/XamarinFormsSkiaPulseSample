@@ -2,6 +2,10 @@
 
 Sample for showing pulse effect on xamarin.forms
 
+Share From：
+
+https://github.com/abdulrahmanelfeky/SkiaPulse-Xamarin.Forms
+
 Tutorial:
 
 https://mp.weixin.qq.com/s/13ZIHUcO22oKEEgbbq8TyQ
