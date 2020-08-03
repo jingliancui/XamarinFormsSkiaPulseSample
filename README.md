@@ -14,4 +14,4 @@ QQ群
 
 Xamarin Library
 
-<img src="https://raw.githubusercontent.com/jingliancui/XamarinFormsAMapSDKSample/master/Images/wechatqrcode.jpg"/>
+<img src="https://github.com/jingliancui/XamarinFormsSkiaPulseSample/blob/master/Images/wechatqrcode.jpg?raw=true"/>
