@@ -4,7 +4,7 @@ Sample for showing pulse effect on xamarin.forms
 
 Tutorial:
 
-
+https://mp.weixin.qq.com/s/13ZIHUcO22oKEEgbbq8TyQ
 
 QQ群
 
