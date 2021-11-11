@@ -14,9 +14,11 @@ Aanalyse on ZhiHu:
 
 https://zhuanlan.zhihu.com/p/165518528
 
-QQ群
+QQ Group:
 
-313308215
+521288080
+
+313308215(满)
 
 微信公众号
 
